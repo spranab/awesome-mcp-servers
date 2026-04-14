@@ -1560,6 +1560,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [whynowlab/jarvis-orb](https://github.com/whynowlab/jarvis-orb) [![whynowlab/jarvis-orb MCP server](https://glama.ai/mcp/servers/whynowlab/jarvis-orb/badges/score.svg)](https://glama.ai/mcp/servers/whynowlab/jarvis-orb) 🐍 🏠 - Persistent 4-tier AI memory (episodic, semantic, project, procedural) with temporal scoring, contradiction detection, entity tracking, and real-time desktop visualization orb.
 - [teolex2020/AuraSDK](https://github.com/teolex2020/AuraSDK) [![teolex2020-aurasdk MCP server](https://glama.ai/mcp/servers/teolex2020-aurasdk/badges/score.svg)](https://glama.ai/mcp/servers/teolex2020-aurasdk) 🐍 🏠 — Persistent cognitive memory for Claude Desktop. Sub-ms recall, offline, encrypted.
 - [arthurpanhku/Arthor-Agent](https://github.com/arthurpanhku/Arthor-Agent) [![arthor-agent MCP server](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent/badges/score.svg)](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent) 🐍 🏠 ☁️ - ...
+- [yantrikos/yantrikdb-mcp](https://github.com/yantrikos/yantrikdb-mcp) 🐍 🏠 🍎 🪟 🐧 - Persistent cognitive memory for AI agents. Consolidates duplicate memories, detects contradictions between stored facts, and lets old memories fade via configurable temporal decay. Backed by YantrikDB, a cognitive memory database in Rust (embedded, clustered HTTP server, or MCP).
 
 ### ⚖️ <a name="legal"></a>Legal
 
